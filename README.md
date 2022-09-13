@@ -6,7 +6,7 @@ Plugins developed during the Ecocraft Hackathon 2022
 https://github.com/Ecocraft-2022/GigaBlockIncorporated
 
 # Verde Craft
-## Temperataure, fuel and waste
+## Temperature, fuel and waste
 https://github.com/adbreeker/VerdeCraft
 
 # EcoMak
